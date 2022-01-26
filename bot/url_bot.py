@@ -8,7 +8,7 @@ from skpy import Skype
 from bot.variable import *
 
 url_bot = Blueprint('url_bot', url_prefix='/skype')
-user = Skype('toolsent0616@gmail.com', 'Asd159753')
+user = Skype('n13dccn109@student.ptithcm.edu.vn', 'longboy123')
 lischat = []
 lst=user.chats
 user.chats.recent()
